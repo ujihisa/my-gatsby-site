@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "my-gatsby-site",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
